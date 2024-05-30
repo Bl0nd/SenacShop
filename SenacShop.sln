@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SenacShop.DAL", "SenacShop.DAL\SenacShop.DAL.csproj", "{11147B80-0A53-4AA2-A8A4-F7A55D496B7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenacShop.Console", "SenacShop.Console\SenacShop.Console.csproj", "{57D45C1E-6C27-4998-A42C-443AF3DABB51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SenacShop.Console", "SenacShop.Console\SenacShop.Console.csproj", "{57D45C1E-6C27-4998-A42C-443AF3DABB51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenacShop.Web", "SenacShop.Web\SenacShop.Web.csproj", "{640752AD-180A-4B12-B530-B87CBE33A6AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{57D45C1E-6C27-4998-A42C-443AF3DABB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57D45C1E-6C27-4998-A42C-443AF3DABB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57D45C1E-6C27-4998-A42C-443AF3DABB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640752AD-180A-4B12-B530-B87CBE33A6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640752AD-180A-4B12-B530-B87CBE33A6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640752AD-180A-4B12-B530-B87CBE33A6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640752AD-180A-4B12-B530-B87CBE33A6AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
